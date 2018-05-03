@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>HelloWorld</name>
-	<comment></comment>
+	<name>This is fralychen test hello-world</name>
+	<comment>with github CI/CD</comment>
 	<projects>
 	</projects>
 	<buildSpec>
